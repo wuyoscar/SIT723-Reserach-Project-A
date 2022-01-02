@@ -14,7 +14,7 @@
 \usepackage[document]{ragged2e}
 \usepackage{times,fullpage} 
 \usepackage{hyperref}
-\graphicspath{ {Figures/}} %% Path to your Figure folder
+\usepackage{blindtext}
 \usepackage{array}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -24,6 +24,13 @@
 \renewcommand{\familydefault}{\sfdefault}
 \hyphenpenalty=10000
 \tolerance=10000
+%%self added
+\usepackage{tabularx, makecell, booktabs}
+\renewcommand{\cellalign}{lc}
+\renewcommand{\theadalign}{lc}
+\renewcommand{\theadfont}{\normalsize\bfseries}
+\newcommand\nl{\newline}
+
 
 %%% IF you need headers and footers
 % \usepackage{fancyhdr}
@@ -39,7 +46,7 @@
 %========= Title Page
 \thispagestyle{empty} 
 \begin{titlepage}
-    \includegraphics[width=0.25\textwidth]{Deakin_Logo.jpeg}
+    \includegraphics[width=0.25\textwidth]{Figures/Deakin_Logo.jpeg}
     \begin{center}
        \vspace*{4cm}
        {\LARGE Deakin SIT Research Project \LaTeX~Template} %%Replace this with the Title of your research

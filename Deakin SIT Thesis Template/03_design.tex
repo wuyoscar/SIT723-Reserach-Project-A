@@ -1,6 +1,51 @@
 \section{Research Design \& Methodology}~\label{sec:design}
-\textbf{Research designs} are plans and the procedures for research that span the decisions from broad assumptions to detailed methods of data collection and analysis~\cite{Creswell:2014a}.
+\subsection{COVID-19 Misinformation on News Sites}~\label{subsec:ifcn}
+We identified three reliable fact website sources collect data. Poynter\footnote{https://www.poynter.org/ifcn-covid-19-misinformation/}, Snope\footnote{https://www.snopes.com/fact-check/}, reliable media outlets evaluated by Media Bias\/Fact check\footnote{https://mediabiasfactcheck.com/}.
+\begin{description}
+\item[Poynter]  is a non-profit making institute of journalists. In COVID-19 crisis, Poynter came forward to inform and educate to avoid the circulation of the fake news. Poynter maintains an International Fact-Checking Network(IFCN), the institute also started a hashtag \#CoronaVirusFacts and \#DatosCoronaVirus to gather the misinformation about COVID-19. Poynter maintains a database which unites more than 100 fact-checkers around the world and includes 70+ countries and 40+ languages.
+\item[Snope] is an independent publication owned by Snopes Media Group. Snopes verifies the correctness of misinformation spread across several topics. As for the fact-checking process, they manually verify the authenticity of the news article and performs a contextual analysis. In response to the COVID-19 infodemic, Snopes provides a collection of a fact-checked news article in different categories based on the topic of the article.
+\item[Reliable Media Outlets] 
+\end{description}
 
-\textbf{Research methodology} is a way to systematically solve the research problem~\cite{Kothari:2004a}. 
+\subsection{Data Collection}~\label{subsec:DataCollect}
+
+This subsection explains the steps followed to collect data from different-checking websites. 
+
+\textit{\textbf{Misinformation Dataset}} We collected data from an online fact-checker website called Poynter [20]. Poynter has a specific COVID-19 related misinforma- tion detection program named ’CoronaVirusFacts/DatosCoronaVirus Alliance Database12’. This database contains thousands of labelled social media information such as news, posts, claims, articles about COVID-19, which were manually verified and annotated by human volunteers (fact-checkers) from all around the globe. 
+
+\subsection{Define classes for misinformation}~\label{subsec:datalabel}
+%%1%%
+We collected fake news from several fact checking websites, and original classes of misinformation vary depend on how fact checking rating system. For example,  \emph{``Pants on Fire''}, a simple rhyme known by Children all over the United States, they say it when someone gets caught in a lie. In other words, when someone gets busted for lying\cite{pant_on_fire}. which be used by PolitiFact to rated news as false. And Factchek\footnote{www.factcheck.kz} used \emph{``Manipulation''} to annotate news, which contain claims that are beyond misleading or are based on methods that can be easily manipulated or framed in a manipulative way. Furthermore, data crawled from Snopes even contains 98 misinformation check websites cross the world. For an instance, ``faux'' be used in french fact checking organisation which means fake, and 'fałsz' is Polish word and equal to false in English. Overall, we manually checked rating system provided by different fact checking website and normalised theses classed by mapping them into 4 labels (i.e. ``Flase'', ``mixed'',``True'',``Others''). We also provided a table to overview of verdict categories that we and original fact check websites defined misinformation. Details of definition of different type of fact-check articles can be found in this study\cite{shahi_fakecovid_2020}.
+
+%%table of classed 
+\begin{table}[!htb]
+\small\sffamily\centering%
+\caption{\label{tab:calss table}Normalisation of original categorisation by the fact checking web sites.}
+\begin{tabularx}{\linewidth}{XXX}
+\toprule
+\thead{Normalisation} & \thead{Original Classed} & \thead{Definition} & \\
+\midrule
+
+True & First solution & The rated statements are demonstrably true and no significant details are missing.\nl Data from selected reliable news organisation discussed in Section\ref{subsec:ifcn}  \\
+\addlinespace
+
+False                 & Second solution & Data 1\nl Data 2\nl Data 3 \\
+\addlinespace
+
+Mixed                 & Third solution & Data 1\nl Data 2\nl Data 3 \\
+\addlinespace
+
+Others                 & Third solution & Data 1\nl Data 2\nl Data 3\\
+\bottomrule
+\end{tabularx}
+
+\end{table}
+%%end of classed 
+
+\subsection{Data Cleaning \& Processing}~\label{subsec:DataClean}
+%%1%%
+\subsection{Model Setup}~\label{Model Setup}
+%%1%%
+\subsection{Model Explanation}~\label{Model explain}
 
 

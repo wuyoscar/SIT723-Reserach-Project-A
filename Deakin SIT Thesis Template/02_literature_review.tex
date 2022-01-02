@@ -1,1 +1,56 @@
-\section{Literature Review}~\label{sec:literature}
+\section{Related Work}~\label{sec:literature}
+
+\noindent Most of COVID19 misinformation detection systems implement machine learning techniques to help public in classifying whether the news spreading in social media is reliable or not \cite{elhadad_detecting_2020}. Machine learning is a subset of artificial intelligence where the main aim is to train machines by using algorithms about some statistical phenomenon to make decisions like human. It identifies the pattern of the data point based on some mathematical relation and predicts the new data point in similar way. All the ML methods are discussed in two separate subsections named Traditional ML methods and DL methods \cite{ullah_survey_2021}. With the existing computational capabilities and a large amount of data, supervised deep learning learning model provide better performance compared to traditional machine models \cite{ayoub_combat_2021}. 
+
+%%link to fact check website%%
+For deploying machine learning techniques in building COVID19 misinformation detection models, existing studies rely on fact checking websites (i.e., Snope, Media Bias/Fact Check, Factcheck.org, etc.), where a lot of experts and annotators manually classify news into different rating categories (i.e. Reliable, Questionable, True, False, etc.). 
+These fact-checking website can be social media or news websites, fact-checking websites, government or well-recognized authentic websites. The number of English-language fact-checks increased more than 900\% from January to March 2020 \cite{noauthor_types_nodate}.  Fact-checking websites such as the FactCheck.org and Poynter are the primary sources of current COVID-19 misinformation/rumor data.
+Furthermore, COVID19 misinformation dataset can be English text or Multilingual text. 
+
+%%datasets related work%%
+Cui and Lee \cite{cui_coaid_2020} present Covid-19 heAlthcare mIsinformation Dataset (CoAID), including fake news on websites and social platforms, along with related user engagements engagements (i.e., tweets and replies) about such news. They first located several fact-checking websites (i.e. WHO, WebMD, Healthline) to collect true news, and then gathering fake news from CheckYourFact, PolitiFact, etc. Similarly, Zhou et al.\cite{zhou_recovery_2020} refer to credentials rating report by \emph{NewsGuard}\footnote{https://www.newsguardtech.com/} and \emph{Media Bias/Fact Check}\footnote{https://mediabiasf actcheck.com/} to identified 22 reliable news outlet and 38 unreliable news site, and then collected dataset from selected news websites. 
+Recent study also focus on multilingual COVID-19 information. 
+Shahi et al. \cite{shahi_fakecovid_2020} introduced a multilingual cross domain fact check COVID-19 dataset, which included 40 languages and 105 countries. While \cite{abdul-mageed_mega-cov_2021} indicated that not all dataset include labels, because COVID-19 dataset require well recognised fact checkers to annotating, which is time consuming due to Velocity of News.  
+%%%Add rummor dataset here, becasue they introduced dataset which have extral features
+
+
+%%Model related work%%
+To the date, many automated COVID19 misinformation detection system has been proposed in order to decrease harmful effect of COVID19 misinformation. 
+For example, Constraint'21 \cite{patwa2021overview} launched shared tasks to invite researchers working on COVID19 multilingual misinformation detection.  
+Li et al.\cite{li_exploring_2021} assessed the performance of different pre-trained language models such as BERT, Roberta, Erbue, etc with various training strategies. And they achieved 0.9858 of weighted F1 score by transformer-based model. 
+Additionally, Anna et al. \cite{glazkova_g2tmn_2021} implemented COVID-Twitter-BERT (CT-BERT), transformer based model which pretrained on a large corpus of Twitter message on tweets related to COVID19, to achieved 0.9837 Weighted F1 score. Both of study training model included dataset provided by \cite{patwa2021overview}.
+
+
+%%Sentiment related work%%
+Besides the veracity labels and sources provided in the above-mentioned fact-checking platforms, other meta-information, such as sentiment and stance, is missing in most studies \cite{cheng_covid-19_2021}.
+H et al. \cite{jelodar_deep_2020} used Latent Dirichlet Allocation(LDA) combined with Gibbs sampling  in order to discovering topic of COVID19 misinformation on Reddit posts. Among top 10 topics classified by LDA, Most frequent term of ``people'', ``virus'',``sympotoms'',``infection'',``cases'', ``diesease'' are revealed.  They also recognised user's emotion/sentiment based on Long short-term memory (LSTM) and SentiStrength, a free sentiment analysis method, indicated that 35.36\% of user's COVID19 comments toward misinformation is postive and very positiv. In constrast, 23.16\% of comments is negative and very negative and the other are neutral sentiment. 
+
+%%model explanation work%%
+
+In order to get intrinsic view of research work about detecting COVID19 misinformation, it suggested to better understand COVID19 information themselves across social media. Therefore, Gabarron et al. 
+\cite{gabarron_covid-19-related_2021} conducted a systematic review of COVID19 misinformation publication and they founded that, most studies reported that posts related to misinformation on social media included false information, jokes, rumors etc, while only four studies contribute to examining the effect of misinformation. Social media platforms provided direct access to an unprecedented amount of content and amplify rumors and misinformation. 
+M et al.  \cite{cinelli_covid-19_2020} perform a comparative analysis of user's activity on Gab, Reddit, YouTube, Instagram and Twitter to study social behavior of user on topic of COVID19 misinformation. 
+In addition, an exploratory study on misinformation spreading across social media conducted by \cite{shahi_exploratory_2020} and indicated that 51.9\% of the re-shares of false rumours occur after this debunking comment result from readers not reading all the comments before re-sharing. 
+\cite{sharma_covid-19_2020} Their study aim to understand the psychological impacts of misinformation on public perception. Author create online dashboard, which provides a daily list of identified misinformation tweets, along with topics, sentiments, and emerging trends in the COVID-19 Twitter discourse.
+
+%%Our work model explanation%%
+
+
+To the date, misinformation spreads and changes very quickly, often unpredictably. Universal language models may perform weakly in these recent misinformation detection due to the lack of large-scale annotated data and adequate semantic understanding of domain-specific knowledge \cite{chen_transformer-based_2021}. Furthermore, in the case of fact checking related to COVID-19 claims, both understanding and trust are necessary for the adoption of the predictions \cite{ayoub_combat_2021}.
+Only a few studies focus on how  explanations and predictions from machine learning model can be harness to improve human decision \cite{lai_human_2019}. And model interpretability is a major challenge to applications of ML methods, which has not been given enough attention in the field of machine learning research \cite{yang_municipal_2021}, especially COVID-19 misinformation detection system.  Therefore, it suggested that in addition to improving the performance of the model in task of COVID-19 infodemic, we should also improve the interpretability of the model so that it can communicate with decision maker or public. In this study, we use SHAP \cite{lundberg_unified_2017} to explain model in CoAID, ReCOVery and our own multilingual COVID-19 dataset. 
+
+
+
+
+
+
+
+
+
+
+
+
+\par
+
+
+
