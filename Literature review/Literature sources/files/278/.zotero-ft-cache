@@ -1,0 +1,73 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2109.12914
+
+Help | Advanced Search
+Search
+Computer Science > Computation and Language
+(cs)
+[Submitted on 27 Sep 2021]
+Title: Fake News Detection: Experiments and Approaches beyond Linguistic Features
+Authors: Shaily Bhatt , Sakshi Kalra , Naman Goenka , Yashvardhan Sharma
+Download PDF
+
+    Abstract: Easier access to the internet and social media has made disseminating information through online sources very easy. Sources like Facebook, Twitter, online news sites and personal blogs of self-proclaimed journalists have become significant players in providing news content. The sheer amount of information and the speed at which it is generated online makes it practically beyond the scope of human verification. There is, hence, a pressing need to develop technologies that can assist humans with automatic fact-checking and reliable identification of fake news. This paper summarizes the multiple approaches that were undertaken and the experiments that were carried out for the task. Credibility information and metadata associated with the news article have been used for improved results. The experiments also show how modelling justification or evidence can lead to improved results. Additionally, the use of visual features in addition to linguistic features is demonstrated. A detailed comparison of the results showing that our models perform significantly well when compared to robust baselines as well as state-of-the-art models are presented. 
+
+Subjects: 	Computation and Language (cs.CL)
+DOI : 	10.1007/978-981-16-2937-2_9
+Cite as: 	arXiv:2109.12914 [cs.CL]
+  	(or arXiv:2109.12914v1 [cs.CL] for this version)
+Submission history
+From: Shaily Bhatt [ view email ]
+[v1] Mon, 27 Sep 2021 10:00:44 UTC (558 KB)
+Full-text links:
+Download:
+
+    PDF only 
+
+( license )
+Current browse context:
+cs.CL
+< prev   |   next >
+new | recent | 2109
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

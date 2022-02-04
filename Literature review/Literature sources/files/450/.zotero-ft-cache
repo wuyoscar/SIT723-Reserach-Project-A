@@ -1,0 +1,351 @@
+
+Skip to content
+Dashboard Pull request s Issues
+Marketplace
+Explore Codespaces Sponsors Settings wuyoscar
+Sign out
+New repository Import repository New gist New organization
+@wuyoscar
+
+Sorry, something went wrong.
+{{ message }}
+/   ...   /  
+Mimino666   /   langdetect   /  
+Clear Type # for issues and pull requests, > for commands, and ? for help Type # for issues, pull requests, and projects, > for commands, and ? for help Type # for issues, pull requests, and projects, / for files, and > for commands
+We’ve encountered an error and some results aren't available at this time. Type a new search or try again later.
+No results matched your search
+Top result
+Commands Type > to filter
+Files
+Pages
+Access Policies
+Organizations
+Repositories
+Issues, pull requests, and discussions Type # to filter
+Teams
+Users
+Projects
+Modes
+Use filters in issues, pull requests, discussions, and projects
+Search for issues and pull requests # Search for issues, pull requests, discussions, and projects # Search for organizations, repositories, and users @ Search for projects ! Search for files / Activate command mode > Search your issues, pull requests, and discussions # author:@me Search your issues, pull requests, and discussions # author:@me Filter to pull requests # is:pr Filter to issues # is:issue Filter to discussions # is:discussion Filter to projects # is:project Filter to open issues, pull requests, and discussions # is:open
+Mimino666 / langdetect Public
+
+    Unwatch Stop ignoring Watch 22
+    Notifications
+    Participating and @mentions
+    Only receive notifications from this repository when participating or @mentioned.
+    All Activity
+    Notified of all notifications on this repository.
+    Ignore
+    Never be notified.
+    Custom
+    Select events you want to be notified of in addition to participating and @mentions.
+    Custom
+    Custom
+    Select events you want to be notified of in addition to participating and @mentions.
+    Issues
+    Pull requests
+    Releases
+    Discussions
+    Security alerts
+    Apply Cancel
+    Fork 164
+    Fork langdetect
+
+    If this dialog fails to load, you can visit the fork page directly.
+    Star 1.2k
+    Create list
+
+    Create a list to organize your starred repositories.
+
+    Name .
+
+    32 remaining
+
+    Description .
+
+    160 remaining
+    .
+    Create
+
+    Tip: type : to add emoji to the name or description.
+    Beta Lists are currently in beta. Share feedback and report bugs.
+
+Create list
+
+Create a list to organize your starred repositories.
+
+Name .
+
+32 remaining
+
+Description .
+
+160 remaining
+.
+Create
+
+Tip: type : to add emoji to the name or description.
+Beta Lists are currently in beta. Share feedback and report bugs.
+Unwatch Stop ignoring Watch
+Notifications
+Participating and @mentions
+Only receive notifications from this repository when participating or @mentioned.
+All Activity
+Notified of all notifications on this repository.
+Ignore
+Never be notified.
+Custom
+Select events you want to be notified of in addition to participating and @mentions.
+Custom
+Custom
+Select events you want to be notified of in addition to participating and @mentions.
+Issues
+Pull requests
+Releases
+Discussions
+Security alerts
+Apply Cancel
+
+    Code
+    Issues 38
+    Pull requests 13
+    Actions
+    Projects 0
+    Wiki
+    Security
+    Insights
+
+More
+
+    Code
+    Issues
+    Pull requests
+    Actions
+    Projects
+    Wiki
+    Security
+    Insights
+
+Open in github.dev Open in a new github.dev tab
+Create list
+
+Create a list to organize your starred repositories.
+
+Name .
+
+32 remaining
+
+Description .
+
+160 remaining
+.
+Create
+
+Tip: type : to add emoji to the name or description.
+Beta Lists are currently in beta. Share feedback and report bugs.
+master
+Switch branches/tags
+Branches Tags
+Could not load branches
+Nothing to show
+{{ refName }} default
+View all branches
+Could not load tags
+Nothing to show
+{{ refName }} default
+View all tags
+1 branch 1 tag
+Go to file Add file
+
+    Go to file
+    Create new file
+    Upload files
+
+Code
+
+    Clone
+    HTTPS
+    SSH
+    GitHub CLI
+
+    Use Git or checkout with SVN using the web URL.
+
+    Use a password-protected SSH key.
+
+    Work fast with our official CLI. Learn more .
+    Open with GitHub Desktop
+    Download ZIP
+
+Launching GitHub Desktop
+
+If nothing happens, download GitHub Desktop and try again.
+Launching GitHub Desktop
+
+If nothing happens, download GitHub Desktop and try again.
+Launching Xcode
+
+If nothing happens, download Xcode and try again.
+Launching Visual Studio Code
+
+Your codespace will open once ready.
+
+There was a problem preparing your codespace, please try again.
+Latest commit
+@Mimino666
+Mimino666 v1.0.9
+1 a1598f1 on 7 May 2021
+Git stats
+
+    68 commits
+
+Files
+Permalink
+Failed to load latest commit information.
+Type
+Name
+Latest commit message
+Commit time
+langdetect
+Update __init__.py
+9 months ago
+.gitignore
+Initial commit
+8 years ago
+.travis.yml
+Adding Power support(ppc64le) with ci and testing to the project for …
+14 months ago
+LICENSE
+Update LICENSE
+7 years ago
+MANIFEST.in
+Added messages properties to MANIFEST.
+8 years ago
+NOTICE
+Updated license.
+8 years ago
+README.md
+Fix original work attribution
+2 years ago
+requirements.txt
+Added boilerplate code for pypi.
+8 years ago
+setup.py
+v1.0.9
+8 months ago
+langdetect Installation Languages Basic usage How to add new language? Original project
+README.md
+langdetect
+
+Build Status
+
+Port of Nakatani Shuyo's language-detection library (version from 03/03/2014) to Python.
+Installation
+
+ $ pip install langdetect  
+
+Supported Python versions 2.7, 3.4+.
+Languages
+
+langdetect supports 55 languages out of the box ( ISO 639-1 codes ):
+
+ af, ar, bg, bn, ca, cs, cy, da, de, el, en, es, et, fa, fi, fr, gu, he, hi, hr, hu, id, it, ja, kn, ko, lt, lv, mk, ml, mr, ne, nl, no, pa, pl, pt, ro, ru, sk, sl, so, sq, sv, sw, ta, te, th, tl, tr, uk, ur, vi, zh-cn, zh-tw  
+
+Basic usage
+
+To detect the language of the text:
+
+ >> >  from  langdetect  import  detect 
+>> >  detect ( "War doesn't show who's right, just who's left." )
+'en' 
+>> >  detect ( "Ein, zwei, drei, vier" )
+'de' 
+
+To find out the probabilities for the top languages:
+
+ >> >  from  langdetect  import  detect_langs 
+>> >  detect_langs ( "Otec matka syn." )
+[ sk : 0.572770823327 , pl : 0.292872522702 , cs : 0.134356653968 ]
+
+NOTE
+
+Language detection algorithm is non-deterministic, which means that if you try to run it on a text which is either too short or too ambiguous, you might get different results everytime you run it.
+
+To enforce consistent results, call following code before the first language detection:
+
+ from  langdetect  import  DetectorFactory 
+DetectorFactory . seed  =  0 
+
+How to add new language?
+
+You need to create a new language profile. The easiest way to do it is to use the langdetect.jar tool, which can generate language profiles from Wikipedia abstract database files or plain text.
+
+Wikipedia abstract database files can be retrieved from "Wikipedia Downloads" ( http://download.wikimedia.org/ ). They form '(language code)wiki-(version)-abstract.xml' (e.g. 'enwiki-20101004-abstract.xml' ).
+
+usage: java -jar langdetect.jar --genprofile -d [directory path] [language codes]
+
+    Specify the directory which has abstract databases by -d option.
+    This tool can handle gzip compressed file.
+
+Remark: The database filename in Chinese is like 'zhwiki-(version)-abstract-zh-cn.xml' or zhwiki-(version)-abstract-zh-tw.xml', so that it must be modified 'zh-cnwiki-(version)-abstract.xml' or 'zh-twwiki-(version)-abstract.xml'.
+
+To generate language profile from a plain text, use the genprofile-text command.
+
+usage: java -jar langdetect.jar --genprofile-text -l [language code] [text file path]
+
+For more details see language-detection Wiki .
+Original project
+
+This library is a direct port of Google's language-detection library from Java to Python. All the classes and methods are unchanged, so for more information see the project's website or wiki.
+
+Presentation of the language detection algorithm: http://www.slideshare.net/shuyo/language-detection-library-for-java .
+About
+
+Port of Google's language-detection library to Python.
+Resources
+Readme
+License
+View license
+Stars
+1.2k stars
+Watchers
+22 watching
+Forks
+164 forks
+Releases 1
+v1.0.8 Latest
+on 24 Apr 2021
+Packages 0
+No packages published
+Contributors 9
+
+    @Mimino666
+    @hugovk
+    @phhusson
+    @msabramo
+    @jaklaassen
+    @justecorruptio
+    @joewreschnig
+    @lingwndr
+    @asellappen
+
+Languages
+
+    Python 100.0%
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+You can’t perform that action at this time.
+Loading complete

@@ -1,0 +1,242 @@
+
+We use cookies on this site to enhance your user experience
+
+By clicking any link on this page you are giving your consent for us to set cookies.
+OK, I agree More info
+Skip to main content
+Reuters Logo Reuters Logo
+
+    Home
+    News
+    Research
+    Fellowships
+    Leadership
+    Events
+    About
+
+Main Navigation Second Row
+
+    Digital News Report
+    Trust in News Project
+    Our Climate Network
+
+Search
+Try searching for
+
+    Misinformation
+    Subscriptions
+    Fact-checking
+    Leadership 
+
+Breadcrumb
+
+    Home
+    Research
+
+Types, sources, and claims of COVID-19 misinformation
+Times Square
+
+A man wearing a face mask uses his phone in the Times Square subway station. REUTERS/Lucas Jackson
+Dr. J. Scott Brennen
+Felix Simon
+Dr Philip N. Howard
+Prof. Rasmus Kleis Nielsen
+Tuesday 7 April 2020
+
+Key Findings | General overview | Scale: massive growth in fact-checks about COVID-19 | Formats: little coronavirus misinformation is completely fabricated. All of it is technologically simple | Sources: misinformation moves top-down as well as bottom-up | Claims: much misinformation concerns the actions of public authorities | Responses: platforms have responded to much, but not all, of the misinformation identified by fact-checkers  | Conclusions and recommendations | Footnotes | References  | Acknowledgements | About the authors | Methodological Appendix
+Key findings ↑
+
+In this factsheet we identify some of the main types, sources, and claims of COVID-19 misinformation seen so far. We analyse a sample of 225 pieces of misinformation rated false or misleading by fact-checkers and published in English between January and the end of March 2020, drawn from a collection of fact-checks maintained by First Draft.
+
+We find that:
+
+    In terms of scale, independent fact-checkers have moved quickly to respond to the growing amount of misinformation around COVID-19; the number of English-language fact-checks rose more than 900% from January to March. (As fact-checkers have limited resources and cannot check all problematic content, the total volume of different kinds of coronavirus misinformation has almost certainly grown even faster.)
+    In terms of formats, most (59%) of the misinformation in our sample involves various forms of reconfiguration, where existing and often true information is spun, twisted, recontextualised, or reworked. Less misinformation (38%) was completely fabricated. Despite a great deal of recent concern, we find no examples of deep fakes in our sample. Instead, the manipulated content includes ‘cheap fakes’ produced using much simpler tools. The reconfigured misinformation accounts for 87% of social media interactions in the sample; the fabricated content, for 12%.
+    In terms of sources, top-down misinformation from politicians, celebrities, and other prominent public figures made up just 20% of the claims in our sample but accounted for 69% of total social media engagement. While the majority of misinformation on social media came from ordinary people, most of these posts seemed to generate far less engagement. However, a few instances of bottom-up misinformation garnered a large reach and our analysis is unable to capture spread in private groups and via messaging applications, likely platforms for significant amounts of bottom-up misinformation.
+    In terms of claims, misleading or false claims about the actions or policies of public authorities, including government and international bodies like the WHO or the UN, are the single largest category of claims identified, appearing in 39% of our sample.
+    In terms of responses, social media platforms have responded to a majority of the social media posts rated false by fact-checkers by removing them or attaching various warnings. There is significant variation from company to company, however. On Twitter, 59% of posts rated as false in our sample by fact-checkers remain up. On YouTube, 27% remain up, and on Facebook, 24% of false-rated content in our sample remains up without warning labels.
+
+
+General overview ↑
+
+In mid-February, the World Health Organization announced that the new coronavirus pandemic was accompanied by an ‘infodemic’ of misinformation ( WHO 2020 ).
+
+Mis- and disinformation 1 about science, technology, and health is neither new nor unique to COVID-19. Amid an unprecedented global health crisis, many journalists, policy makers, and academics have echoed the WHO and stressed that misinformation about the pandemic presents a serious risk to public health and public action.
+
+Cristina Tardáguila, Associate Director of the International Fact-checking Network (IFCN), has called COVID–19 ‘the biggest challenge fact-checkers have ever faced.’ News media are covering the pandemic and responses to it intensively and platform companies have tightened their community standards and responded in other ways. Some governments, including in the UK , have set up various government units to counter potentially harmful content.
+
+This factsheet uses a sample of fact-checks to identify some of the main types, sources, and claims of COVID-19 misinformation seen so far. Building on other analyses ( Hollowood and Mostrous 2020; EuVsDIS 2020; Scott 2020), we combine a systematic content analysis of fact-checked claims about the virus and the pandemic with social media data indicating the scale and scope of engagement.
+
+The 225 pieces of misinformation analysed were sampled from a corpus of English-language fact-checks gathered by First Draft, focusing on content rated false or misleading. The corpus combines articles to the end of March from fact-checking contributors to two separate networks: the International Fact-Checking Network (IFCN) and Google Fact Checking Tools. We systematically assessed each fact-checked instance and coded it for the type of misinformation, the source for it, the specific claims it contained, and what seemed to be the motivation behind it. Furthermore, we gathered social media engagement data for all pieces of content identified and linked to by fact-checkers in the sample to get an indication of the relative reach of and engagement with different false or misleading claims. A majority (88%) of the sample appeared on social media platforms. A small amount (also) appeared on TV (9%), was published by news outlets (8%), or appeared on other websites (7%). Throughout the factsheet, when we speak about misinformation, it is on the basis of this sample of content rated false or misleading by independent professional fact- checkers. Please see the methodological appendix for a fuller description of the methods and sample.
+
+While fact-checks provide a reliable way to identify timely pieces of misinformation, fact-checkers cannot address every piece of misinformation and their professional work necessarily involves various selection biases as they focus scare resources (Graves 2016). Fact-checkers also have limited access to misinformation spreading in private channels, by email, in closed groups, and via messaging apps (and in offline conversations). Similarly, engagement data for social media posts analysed here is only indicative of wider engagement with and exposure to misinformation which can spread in many different ways, both online and offline. In many cases, it is likely that claims were repeated and spread by many accounts across platforms not included in these data. Still, engagement data provide some indication of the relative reach of different claims.
+
+Thus, the analysis is neither comprehensive (we do not systematically examine misinformation in search, via photo-sharing platforms and messaging applications, or sites like Reddit, or for that matter via news media or government communications), nor is it exhaustive (we look only at a sample of English-language fact-checks). We still believe it takes a step towards better understanding the scale and scope of the problems we face.
+
+Below, we present five findings that describe the makeup and circulation of misinformation about COVID-19 based on our content analysis, finalised by 31 March.
+
+FIgure 1
+
+Scale: massive growth in fact-checks about COVID-19 ↑
+
+In response to growth in the volume and diversity of misinformation in circulation, the number of fact-checks concerning COVID-19 has increased dramatically over the last three months (see Figure 1). Many fact-checking outlets around the world appear to be devoting much – if not most – of their time and resources to debunking claims about the pandemic. Even so, that fact-checking organisations continue to find new claims to investigate speaks to the large amount of misinformation circulating.
+
+Figure 2
+
+Formats: little coronavirus misinformation is completely fabricated. All of it is technologically simple ↑
+
+Rather than being completely fabricated, much of the misinformation in our sample involves various forms of reconfiguration where existing and often true information is spun, twisted, recontextualised, or reworked (see Figure 2) (Wardle 2019). Judging from the social media data collected, reconfigured content saw higher engagement than content that was wholly fabricated. 2 Our analysis recognised three different sub-types of misinformation that reconfigured existing information. The most common form of misinformation, ‘misleading content’ (29%), contained some true information, but the details were reformulated, selected, and re-contextualised in ways that made them false or misleading. One very widely shared post offered medical advice from someone’s uncle, combining both accurate and inaccurate information about how to treat and prevent the spread of the virus. While some of the advice, such as washing one’s hands, aligns with the medical consensus, other suggestions do not. For example, the piece claims: ‘This new virus is not heat-resistant and will be killed by a temperature of just 26/27 degrees. It hates the sun.’ While heat will kill the virus, 27 degrees Celsius is not high enough to do so.
+
+A second common form of misinformation involves images or videos labelled or described as being something other than they are (24%). For example, one post shows a picture of a selection of vegan foods untouched on an otherwise empty grocery shelf and suggests that ‘Even with the Corona Virus (sic) panic buying, no one wants to eat Vegan food. ’ AFP Australia observed this image is of a grocery store shelf in Texas in 2017, ahead of Hurricane Harvey. This is also an example of what some call ‘malinformation’ (Wardle 2019).
+
+Our sample includes a small number of manipulated images and videos. Every example of doctored or manipulated content in this sample employed simple, low-tech photo or video editing techniques. One video includes images of bananas edited into a news segment to suggest that bananas can prevent or cure COVID-19.
+
+Despite a great deal of recent concern, we saw no examples of misinformation employing deep fakes or other AI-based tools. Rather, manipulated content are ‘cheap fakes’ (Paris and Donovan 2019) produced using techniques that have existed as long as there have been photographs and film.
+
+Figure 3
+
+Sources: misinformation moves top-down as well as bottom-up ↑
+
+High-level politicians, celebrities, or other prominent public figures produced or spread only 20% of the misinformation in our sample, but that misinformation attracted a large majority of all social media engagements in the sample. While some of these instances involve content posted on social media, 36% of top-down misinformation also includes politicians speaking publicly or to the media. As an example, the New York Times and others have documented that President Donald Trump has made a number of false statements on the topic at events, on Fox News, and on Twitter. While our data do not capture the reach of misinformation spread via TV, top-down misinformation on social media accounted for 69% of total social media engagements in our sample 3 (see Figure 3), driven in part by very high levels of engagement with misinformation posted or spread by high-level elected officials, celebrities, and other prominent public figures (including a US-based technology entrepreneur).
+
+Despite this, it is important not to underestimate the amount (or influence) of bottom-up misinformation produced and spread by members of the broader public. Not only did this content make up the vast majority of our sample in terms of volume, some individual pieces, such as one about saunas and hair dryers preventing COVID-19 , also occasionally generated large volumes of engagement. It is difficult to assess motivation from content alone as members of the public often engage in highly ambiguous practices online (Philips and Milner 2017). Members of the public appear to have many reasons for sharing pieces of misinformation, including a desire to ‘troll’, the legitimate belief information is true, and political partisanship.
+
+It is also notable how few pieces of misinformation across the sample appeared intended to generate a profit. Only six (3%) pieces of content were obviously linked to supposed cures, vaccines, or protective equipment for sale, and eight (4%) were posted on advertising-heavy websites and meant to generate clicks. 4 (This may reflect the priorities of professional fact-checkers rather than the wider universe of misinformation, as there is almost certainly a large volume of low-grade for-profit coronavirus misinformation being published by those trying to generate advertising revenues that may evade the attention of fact-checkers).
+Figure 4
+
+ 
+
+Claims: much misinformation concerns the actions of public authorities ↑
+
+Across the sample, the most common claims within pieces of misinformation concern the actions or policies that public authorities are taking to address COVID-19, whether individual national/regional/local governments, health authorities, or international bodies like the WHO and UN (see Figure 4). The second most common type of claim concerns the spread of the virus through communities. This ranged from claims that geographic areas had seen their first infections, to content blaming certain ethnic groups for spreading the virus.
+
+Notably, misinformation about government action and about the public spread of the virus generally challenge information often communicated by various public authorities: whether that is communicating their direct policies or providing pressing public information. While the prominence of these topics may be a function of being easier for fact-checkers to validate, they could also indicate that governments have not always succeeded in providing clear, useful, and trusted information to address pressing public questions. In the absence of sufficient information, misinformation about these topics may fill in gaps in public understanding, and those distrustful of their government or political elites may be disinclined to trust official communications on these matters.
+
+Figure 5
+
+Responses: platforms have responded to much, but not all, of the misinformation identified by fact-checkers ↑
+
+Several of the major social media platform companies have taken steps to try to limit the spread of misinformation about COVID-19. While policies vary, some platforms, including Facebook, Twitter, and YouTube, say they have begun to remove fact-checked false and potentially harmful posts with reference to community standards that have in several cases been tightened in response to the pandemic. Facebook also now in some cases includes warning labels on content that has been rated false by independent fact- checkers.
+
+Social media platforms have responded to a majority of the social media posts rated false in our sample. There is nonetheless very significant variation from company to company (see Figure 5). While 59% of false posts remain active on Twitter with no direct warning label, the number is 27% for YouTube and 24% for Facebook. Please also note that each false claim may exist in many slightly different permutations on any given platform, and our analysis only captures if the platform in question has acted against the first or main piece identified as false by fact-checkers.
+
+There is no directly comparable data available, but background conversations with fact-checkers suggest COVID-19-related misinformation is more likely to be actioned by platforms than, for example, political misinformation. If this is so, it may reflect the combination of the clear and present danger of the pandemic, less partisan disagreement, and the fact that there is expertise and evidence to determine more clearly what is false and what is not than is the case in many political discussions (Vraga and Bode 2020).
+
+Conclusions and recommendations ↑
+
+Our analysis suggests that misinformation about COVID-19 comes in many different forms, from many different sources, and makes many different claims. It frequently reconfigures existing or true content rather than fabricating it wholesale, and where it is manipulated, is edited with simple tools.
+
+Given the scope and seriousness of the pandemic, independent media and fact-checkers and actions by platforms and others play an important role in addressing virus-related misinformation. Fact-checkers can help sort false from true material, and accurate from misleading claims. Our finding that much misinformation directly or indirectly questions the actions, competence, or legitimacy of public authorities (including governments, health authorities, and international organisations) suggests it will be difficult for those institutions to address or correct it directly without running into multiple problems. How many people will accept as credible a government trying to debunk or refute misinformation that casts that very same government in a negative light? In contrast, independent fact-checkers can provide authoritative analysis of misinformation while helping platforms identify misleading and problematic content, just as independent news media can report credibly on how governments and others are responding (with varying degrees of success) to the pandemic.  
+
+Our analysis also found that prominent public figures continue to play an outsized role in spreading misinformation about COVID-19. While only a small percentage of the individual pieces of misinformation in our sample come from prominent politicians, celebrities, and other public figures, these claims often have very high levels of engagement on various social media platforms. The growing willingness of some news media to call out falsehoods and lies from prominent politicians can perhaps help counter this (though it risks alienating their strongest supporters.) Similarly, the decision by Twitter, Facebook, and YouTube in late March to remove posts shared by Brazilian President Jair Bolsonaro because they included coronavirus misinformation was in our view an important moment in how platform companies handle the problem that a lot of misinformation comes from the top.
+
+Although our data do not capture it, misinformation from prominent public figures can also spread widely through other channels such as TV. While fact-checks rarely spread either as widely or in the same networks (Bounegru et al. 2017) as the misinformation it corrects, it is imperative that trusted fact-checking and media organisations continue to hold prominent figures to account for claims they make across all channels and find new ways to distribute and publicise their work.
+
+That being said, fact-checking is a scarce resource. Our findings demonstrate the degree to which fact checking organisations have redeployed their limited resources to address misinformation surrounding COVID-19. It is important that fact-checkers continue to increase coordination to limit overlap in the claims they assess and validate. At the same time, the pressing imperative to validate coronavirus information does not also mean that misinformation about other topics has become less prominent or important. Given some initial indication that news about COVID-19 is supplementing rather than replacing existing news use, there is reason to suspect there remains a diverse landscape of misinformation circulating globally. It remains unclear what effect this rapid shifting of fact-checking resources and attention will have on the larger information environment. Given the importance of independent fact-checkers, we can only hope that more funders will be willing to support such work going forward.
+
+While describing the landscape of COVID-19 misinformation as an ‘infodemic’ captures the scale, our analysis suggests it risks mischaracterising the nature of the problems we face. As we have shown, there is wide variety in the types of misinformation circulating, the claims made concerning the virus, and motivations behind its production. Unlike the pandemic itself, there is no single root cause behind the spread of misinformation about the coronavirus. Instead, COVID-19 appears to be supplying the opportunity for very different actors with a range of different motivations and goals to produce a variety of types of misinformation about many different topics. In this sense, misinformation about COVID-19 is as diverse as information about it.
+
+The risk in not recognising the diversity in the landscape of coronavirus misinformation is assuming there could be a single solution to this set of problems. Instead, our findings suggest there will be no silver bullet or inoculation – no ‘cure’ for misinformation about the new coronavirus. Instead, addressing the spread of misinformation about COVID-19 will take a sustained and coordinated effort by independent fact-checkers, independent news media, platform companies, and public authorities to help the public understand and navigate the pandemic.
+
+Footnotes ↑
+
+1  Many define disinformation as knowingly false content meant to deceive. Given the difficulty in knowing or assessing this, we use the term misinformation throughout this factsheet to refer broadly to any type of false information – including disinformation.
+2   An independent samples t-test showed a significant difference in engagement between reconfigured and fabricated content t(137)=1.241, p < 0.05. 
+3   As discussed in the appendix, we were able to find engagement data for only 145 articles. Top-down claims constituted 15% of this reduced sample. 
+4   Beyond the issues discussed here it is worth recognising that some governments globally are arguably withholding public interest information about the pandemic and in some cases actively misinforming the public about the health situation and the actions taken to address it. 
+
+References ↑
+
+    Bounegru, L., Gray, J., Venturini, T., Mauri, M. 2018.   A Field Guide to ‘Fake News’ and Other Information Disorders. Amsterdam: Public Data Lab. (Accessed Mar. 2020). https://fakenews.publicdatalab.org/
+    EUvsDISINFO. 2020. ‘EEAS Special Report Update: Short Assessment of Narratives and Disinformation around the COVID-19 Pandemic’. EUvsDISINFO. (Accessed Mar. 2020). https://euvsdisinfo.eu/ eeas-special-report-update-short-assessment-of- narratives-and-disinformation-around-the-covid- 19-pandemic/
+    Graves, L. 2016. Deciding What’s True: The Rise of Political Fact-Checking in American Journalism. New York: Columbia University Press.
+    Hollowood, E., Mostrous, A. 2020. ‘Fake news in the time of C-19’. Tortoise. (Accessed Mar. 2020). https:// members.tortoisemedia.com/2020/03/23/the- infodemic-fake-news-coronavirus/content.html
+    Paris, B., Donovan, J. 2019. Deepfakes and Cheap Fakes: The Manipulation of Audio and Visual Evidence. Data & Society. (Accessed Mar. 2020). https://datasociety. net/wp-content/uploads/2019/09/DS_Deepfakes_ Cheap_FakesFinal-1-1.pdf
+    Philips, W., Milner, R. 2017. The Ambivalent Internet: Mischief, Oddity, and Antagonism Online . Cambridge, UK: Polity Press.
+    Scott, M. 2020. ‘Facebook’s Private Groups are Abuzz with Coronavirus Fake News.’ Politico. (Accessed Mar. 2020). https://www.politico.eu/article/ facebook-misinformation-fake-news-coronavirus- covid19/
+    Vraga, E., Bode, V. 2020. ‘Defining Misinformation and Understanding its Bounded Nature: Using Expertise and Evidence for Describing Misinformation’ Political Communication 37(1): 136-144. https://doi. org/10.1080/10584609.2020.1716500.
+    Wardle, C. 2019. ‘First Draft’s Essential Guide to Understanding Information Disorder’. UK:   First Draft. (Accessed Mar. 2020). https:// firstdraftnews.org/wp-content/uploads/2019/10/ Information_Disorder_Digital_AW.pdf?x76701
+    Wardle, C. 2017. ‘Fake news. It’s complicated.’ UK: First Draft. (Accessed Mar. 2020). https:// firstdraftnews.org/latest/fake-news-complicated/
+
+
+Acknowledgements ↑
+
+We would like to thank Claire Wardle, Carlotta Dotto and Pedro Noel  at First Draft for sharing their corpus of fact-checks. We are also grateful for the guidance, feedback, and support that Richard Fletcher, Simge Andi, Seth Lewis, Sílvia Majó-Vázquez, Anne Schulz, and the rest of the research, communications, and administration teams at the Reuters Institute for the Study of Journalism provided throughout the process of preparing this report.
+
+About the authors ↑
+
+J. Scott Brennen is a Research Fellow at the Reuters Institute for the Study of Journalism and the Oxford Internet Institute at the University of Oxford.
+
+Felix M. Simon is a Leverhulme Doctoral Scholar at the Oxford Internet Institute and a Research Assistant at the Reuters Institute for the Study of Journalism.
+
+Philip N. Howard is the Director of the Oxford Internet Institute and a Professor of Sociology, Information and International Affairs at the University of Oxford.
+
+Rasmus Kleis Nielsen is the Director of the Reuters Institute for the Study of Journalism and Professor of Political Communication at the University of Oxford.
+
+Factsheet published by the Reuters Institute for the Study of Journalism as part of the Oxford Martin Programme on Misinformation, Science and Media, a three-year research collaboration between the Reuters Institute, the Oxford Internet Institute, and the Oxford Martin School.
+
+Methodological Appendix ↑
+Methods
+
+The findings described here derive from a systematic analysis of a corpus of 225 pieces of misinformation about the new coronavirus rated false or misleading by international fact-checking organisations. Fact- checks were sampled from a corpus of 2,871 articles provided to the authors by First Draft that consolidates virus-related fact-checks from the Poynter’s International Fact-Checking Network (IFCN) database and Google’s Fact Check Explorer tool between January and March 2020.  
+
+After excluding all non-English entries, a sample of 18% of articles was drawn at random from the remaining corpus (N=1253) and a secondary sample of an additional 20% was drawn at random. Duplicate articles and those that had a ‘true’ rating in the primary sample were replaced from the secondary sample. Importantly, no articles from 31 March 2020 were included in the corpus. The % increase in fact-checks between March and January quoted in the factsheet may be slightly under-estimated.  
+
+False claims circulating in messaging apps and private groups on social media platforms are likely to be underrepresented in international fact-checks. Similarly, fact-checkers must make choices of how to use limited time and resources. Many of the fact-checking organisations in this corpus have an agreement with Facebook in which they regularly complete fact-checks of Facebook content. While there is no guarantee that fact-checkers assess a representative sample of misinformation, this sample provides a means of understanding in general the types of misinformation in circulation and some of the most common false claims made about COVID-19. Similarly, owing to the individual styles and approaches of the many fact-checking organisations included in this sample, the fact-checks analysed here differ in terms of format and detail, ranging from in-depth descriptions that included links and screenshots to those providing only very basic information about the piece of misinformation in question. As a result, it was not always possible to determine certain variables.
+
+Articles were analysed by two coders based on a pre- defined coding scheme. The coding scheme included a series of descriptive variables (see full codebook below), as well as measures of misinformation type, apparent motive, and types of claims within pieces of misinformation. The typology for types of misinformation was adapted from Wardle’s (2019) popular 7-part typology. The measure of apparent  motivation adapted Wardle’s 8-part typology into six motivations (poor journalism, parody/satire, trolling or true belief, politics, profit, other) (Wardle, 2017).
+
+  The typology of claims within misinformation was inductively produced to be specific to misinformation about COVID-19. A rough typology was generated based on existing scholarship on health misinformation and an initial review of COVID-19 claims. Next, both reviewers coded the same 10 pieces of misinformation identified through AFP fact-checks, discussed the coding, and refined the typology. See Table 1 for the final inductively generated typology with descriptions. In coding this variable, coders selected all claims that appeared in a piece of content.
+
+10% of entries were coded by both coders to assess intercoder reliability. Cohen’s kappa for misinformation type (0.82) and misinformation claims (0.88) were acceptable. Cohen’s kappa for apparent motivation (0.68) was marginal and reflects the difficulty assessing motivation from content alone. Findings reported have reflected this difficulty.
+
+Coders also assessed if the original misinformation claim was produced or spread by high level politicians, celebrities, and other prominent public figures (top- down) or by members of the general public (bottom- up).
+
+Given the well-publicised effort by social media platforms to address COVID-19 related misinformation, coders recorded if debunked content from Facebook, Twitter, and YouTube had been labelled as ‘false’, removed (by platform or submitter), or remained active on the platform. Rather than count every repeated posting on a platform, coders recorded the status of the first or main piece identified for each platform for a given fact-check. All coded instances of active posts without warning labels were re-checked at the end of March. It is possible that posts included in this corpus have been removed or labelled since then. Please also note that each false claim may exist in many slightly different permutations on any given platform, and our analysis only captures if the platform in question has acted against the first or main piece identified as false by fact-checkers.
+
+Coders also gathered engagement metrics (likes, comments and shares) for all pieces of misinformation linked or archived by fact-checks. Recorded likes, comments, and shares were summed into a single engagement metric. Views were not included in the total engagement metric. It should be noted that some social platforms actively down-rank posts once they have been flagged by fact-checkers. By basing engagement scores on archived/screenshotted posts, these data are indicative of a post’s popularity before being flagged. Even so, this engagement score likely underestimates the true engagement for a misinformation claim, which is often repeated and spread by many separate accounts. Of the 225 fact- checks in the sample engagement data were found for 145.
+
+Table 1
+Codebook
+
+Codebook 1
+
+Codebook 2
+References
+
+    Wardle, C. 2019. ‘First Draft’s Essential Guide to Understanding Information Disorder’ . UK: First Draft. (Accessed Mar. 2020). 
+    Wardle, C. 2017. ‘Fake news. It’s complicated.’ UK: First Draft. (Accessed Mar. 2020).
+
+Download a PDF version here
+Related Research
+Passengers on a subway train, Brasilia, Brazil, July 2020. REUTERS/Adriano Machado
+Reports
+What we think we know and what we want to know: perspectives on trust in news in a changing world
+Reports
+Daily news podcasts: building new habits in the shadow of coronavirus
+Writers and editors of ABS-CBN, the country’s biggest broadcaster, work at the newsroom in their headquarters, following orders by telecoms regulator to cease its operations in Quezon City, Metro Manila, Philippines, May 6, 2020. REUTERS/Eloisa Lopez
+Reports
+Changing newsrooms 2020: addressing diversity and nurturing talent at a time of unprecedented change
+Reports
+Communications in the coronavirus crisis: lessons for the second wave
+Latest Research
+Reports
+Profundidad y amplitud: cómo gestionan los medios los costes derivados de mejorar la confianza en las noticias
+Reports
+Profundidade e amplitude: Como as organizações noticiosas navegam entre as escolhas envolvidas para construir confiança nas notícias
+Reports
+Depth and breadth: How news organisations navigate trade-offs around building trust in news
+Reuters Institute for the Study of Journalism
+
+Reuters Institute for the Study of Journalism
+University of Oxford
+13 Norham Gardens
+Oxford, OX2 6PS
+United Kingdom
+
+Privacy Policy , Accessibility statement
+Get in touch
+
+T: +44 (0)1865 611080
+E: reuters.institute@politics.ox.ac.uk
+With core funding from

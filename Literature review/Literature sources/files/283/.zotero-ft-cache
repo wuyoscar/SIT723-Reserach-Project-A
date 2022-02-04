@@ -1,0 +1,133 @@
+
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+Elsevier logo ScienceDirect
+
+    Journals & Books 
+
+Register Sign in
+View PDF
+
+    Seamless access
+
+    Access through your institution
+    Purchase PDF 
+
+Outline
+
+    Highlights
+    Abstract
+    Keywords
+    1. Introduction
+    2. Theoretical background
+    3. A link2vec based fake news detection model based on web search results
+    4. The research design and experiments
+    5. Experimental results
+    6. Conclusions
+    CRediT authorship contribution statement
+    Declaration of Competing Interest
+    Acknowledgement
+    References 
+
+Show full outline
+Figures (10)
+
+    Fig. 1. Link collection process according to news
+    Fig. 2. The process of link vectorization
+    Fig. 3. The process of the empirical analysis
+    Fig. 4. Total number of domains from the English dataset
+    Fig. 5. Total number of domains from the Korean dataset
+    Fig. 6. Composition of individual domains in the English and Korean datasets
+
+Show all figures
+Tables (12)
+
+    Table 1
+    Table 2
+    Table 3
+    Table 4
+    Table 5
+    Table 6 
+
+Show all tables
+Elsevier
+Expert Systems with Applications
+Volume 184 , 1 December 2021, 115491
+Expert Systems with Applications
+A link2vec-based fake news detection model using web search results
+Author links open overlay panel Jae-Seung Shim Yunju Lee Hyunchul Ahn
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.eswa.2021.115491 Get rights and content
+Highlights
+
+•
+
+    Web search results can be proper context information source for fake news detection.
+•
+
+    Link2vec is proposed to convert web search results into an embedding vector.
+•
+
+    Link2vec-based model outperforms conventional fake news detection models.
+•
+
+    Link2vec-based fake news detection can be applied regardless of its languages.
+
+Abstract
+
+Today, the world is under siege from various kinds of fake news ranging from politics to COVID-19. Thus, many scholars have been researching automatic fake news detection based on artificial intelligence and machine learning (AI/ML) to prevent the spread of fake news. The mainstream research on detecting fake news so far has been text-based detection approaches, but they have inherent limitations such as the difficulty of short text processing and language dependency. Thus, as an alternative to the text-based approach, the context-based approach is emerging. The most common context-based approach the use of distributors’ network information in social media. However, such information is difficult to obtain, and only propagation within a single social media can be traced. Under this background, we propose the use of composition pattern of web links containing news content as a new source of information for fake news detection. To properly vectorize the composition pattern of web links, this study proposes a novel embedding technique, which is called link2vec, an extension of word2vec. To test the effectiveness and language independency of our link2vec-based model, we applied it to two real-world fake news datasets in different languages (English and Korean). As comparison models, we adopted the conventional text-based model and a hybrid model that combined text and whitelist-based link information proposed by a prior study. Results revealed that in the datasets in two languages, the link2vec-based detection models outperformed all the comparison models with statistical significance. Our research is expected to contribute to suggesting a completely new path for effective fake news detection.
+
+    Previous article in issue
+    Next article in issue 
+
+Keywords
+Fake news detection
+Link2vec
+Web search result
+Feature selection
+Deep learning
+View full text
+© 2021 Elsevier Ltd. All rights reserved.
+Recommended articles
+
+    Eigenvector-based centralities for multilayer temporal networks under the framework of tensor computation
+    Expert Systems with Applications, Volume 184, 2021, Article 115471
+    Purchase PDF
+    View details
+    A new data filling approach based on probability analysis in incomplete soft sets
+    Expert Systems with Applications, Volume 184, 2021, Article 115358
+    Purchase PDF
+    View details
+    TripMD: Driving patterns investigation via motif analysis
+    Expert Systems with Applications, Volume 184, 2021, Article 115527
+    Purchase PDF
+    View details
+
+1 2 Next
+Citing articles (1)
+Article Metrics
+Captures
+
+    Readers: 33 
+
+plumX logo
+View details
+Elsevier logo
+
+    About ScienceDirect
+    Remote access
+    Shopping cart
+    Advertise
+    Contact and support
+    Terms and conditions
+    Privacy policy 
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies .
+
+Copyright © 2021 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+
+ScienceDirect ® is a registered trademark of Elsevier B.V.
+RELX group home page
+Full Text Help

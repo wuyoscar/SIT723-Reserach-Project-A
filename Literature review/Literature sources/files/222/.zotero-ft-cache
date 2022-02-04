@@ -1,0 +1,85 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:1801.02613
+
+Help | Advanced Search
+Search
+Computer Science > Machine Learning
+(cs)
+[Submitted on 8 Jan 2018 ( v1 ), last revised 14 Mar 2018 (this version, v3)]
+Title: Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality
+Authors: Xingjun Ma , Bo Li , Yisen Wang , Sarah M. Erfani , Sudanthi Wijewickrema , Grant Schoenebeck , Dawn Song , Michael E. Houle , James Bailey
+Download PDF
+
+    Abstract: Deep Neural Networks (DNNs) have recently been shown to be vulnerable against adversarial examples, which are carefully crafted instances that can mislead DNNs to make errors during prediction. To better understand such attacks, a characterization is needed of the properties of regions (the so-called 'adversarial subspaces') in which adversarial examples lie. We tackle this challenge by characterizing the dimensional properties of adversarial regions, via the use of Local Intrinsic Dimensionality (LID). LID assesses the space-filling capability of the region surrounding a reference example, based on the distance distribution of the example to its neighbors. We first provide explanations about how adversarial perturbation can affect the LID characteristic of adversarial regions, and then show empirically that LID characteristics can facilitate the distinction of adversarial examples generated using state-of-the-art attacks. As a proof-of-concept, we show that a potential application of LID is to distinguish adversarial examples, and the preliminary results show that it can outperform several state-of-the-art detection measures by large margins for five attack strategies considered in this paper across three benchmark datasets. Our analysis of the LID characteristic for adversarial regions not only motivates new directions of effective adversarial defense, but also opens up more challenges for developing new attacks to better understand the vulnerabilities of DNNs. 
+
+Subjects: 	Machine Learning (cs.LG) ; Cryptography and Security (cs.CR); Computer Vision and Pattern Recognition (cs.CV)
+Cite as: 	arXiv:1801.02613 [cs.LG]
+  	(or arXiv:1801.02613v3 [cs.LG] for this version)
+Submission history
+From: Xingjun Ma [ view email ]
+[v1] Mon, 8 Jan 2018 18:54:40 UTC (2,440 KB)
+[v2] Mon, 12 Mar 2018 14:53:21 UTC (2,625 KB)
+[v3] Wed, 14 Mar 2018 07:24:10 UTC (2,625 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.LG
+< prev   |   next >
+new | recent | 1801
+Change to browse by:
+cs
+cs.CR
+cs.CV
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Xingjun Ma
+Bo Li
+Yisen Wang
+Sarah M. Erfani
+Sudanthi N. R. Wijewickrema
+…
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

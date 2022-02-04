@@ -1,0 +1,81 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2005.07503
+
+Help | Advanced Search
+Search
+Computer Science > Computation and Language
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 15 May 2020]
+Title: COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter
+Authors: Martin Müller , Marcel Salathé , Per E Kummervold
+Download PDF
+
+    Abstract: In this work, we release COVID-Twitter-BERT (CT-BERT), a transformer-based model, pretrained on a large corpus of Twitter messages on the topic of COVID-19. Our model shows a 10-30% marginal improvement compared to its base model, BERT-Large, on five different classification datasets. The largest improvements are on the target domain. Pretrained transformer models, such as CT-BERT, are trained on a specific target domain and can be used for a wide variety of natural language processing tasks, including classification, question-answering and chatbots. CT-BERT is optimised to be used on COVID-19 content, in particular social media posts from Twitter. 
+
+Subjects: 	Computation and Language (cs.CL) ; Machine Learning (cs.LG); Social and Information Networks (cs.SI)
+Cite as: 	arXiv:2005.07503 [cs.CL]
+  	(or arXiv:2005.07503v1 [cs.CL] for this version)
+Submission history
+From: Martin Muller [ view email ]
+[v1] Fri, 15 May 2020 12:40:46 UTC (29 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+Current browse context:
+cs.CL
+< prev   |   next >
+new | recent | 2005
+Change to browse by:
+cs
+cs.LG
+cs.SI
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Martin Müller
+Marcel Salathé
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

@@ -1,0 +1,79 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2109.00024
+
+Help | Advanced Search
+Search
+Computer Science > Computers and Society
+(cs)
+[Submitted on 31 Aug 2021]
+Title: Machine-Learning media bias
+Authors: Samantha D'Alonzo (MIT), Max Tegmark (MIT)
+Download PDF
+
+    Abstract: We present an automated method for measuring media bias. Inferring which newspaper published a given article, based only on the frequencies with which it uses different phrases, leads to a conditional probability distribution whose analysis lets us automatically map newspapers and phrases into a bias space. By analyzing roughly a million articles from roughly a hundred newspapers for bias in dozens of news topics, our method maps newspapers into a two-dimensional bias landscape that agrees well with previous bias classifications based on human judgement. One dimension can be interpreted as traditional left-right bias, the other as establishment bias. This means that although news bias is inherently political, its measurement need not be. 
+
+Comments: 	29 pages, 23 figs; data available at this https URL
+Subjects: 	Computers and Society (cs.CY) ; Computation and Language (cs.CL); Machine Learning (cs.LG)
+Cite as: 	arXiv:2109.00024 [cs.CY]
+  	(or arXiv:2109.00024v1 [cs.CY] for this version)
+Submission history
+From: Max Tegmark [ view email ]
+[v1] Tue, 31 Aug 2021 18:06:32 UTC (8,836 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.CY
+< prev   |   next >
+new | recent | 2109
+Change to browse by:
+cs
+cs.CL
+cs.LG
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Max Tegmark
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

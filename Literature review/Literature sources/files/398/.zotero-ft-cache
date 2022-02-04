@@ -1,0 +1,88 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2003.12309
+
+Help | Advanced Search
+Search
+Computer Science > Social and Information Networks
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 26 Mar 2020 ( v1 ), last revised 22 Oct 2020 (this version, v4)]
+Title: COVID-19 on Social Media: Analyzing Misinformation in Twitter Conversations
+Authors: Karishma Sharma , Sungyong Seo , Chuizheng Meng , Sirisha Rambhatla , Yan Liu
+Download PDF
+
+    Abstract: The ongoing Coronavirus (COVID-19) pandemic highlights the inter-connectedness of our present-day globalized world. With social distancing policies in place, virtual communication has become an important source of (mis)information. As increasing number of people rely on social media platforms for news, identifying misinformation and uncovering the nature of online discourse around COVID-19 has emerged as a critical task. To this end, we collected streaming data related to COVID-19 using the Twitter API, starting March 1, 2020. We identified unreliable and misleading contents based on fact-checking sources, and examined the narratives promoted in misinformation tweets, along with the distribution of engagements with these tweets. In addition, we provide examples of the spreading patterns of prominent misinformation tweets. The analysis is presented and updated on a publically accessible dashboard ( this https URL ) to track the nature of online discourse and misinformation about COVID-19 on Twitter from March 1 - June 5, 2020. The dashboard provides a daily list of identified misinformation tweets, along with topics, sentiments, and emerging trends in the COVID-19 Twitter discourse. The dashboard is provided to improve visibility into the nature and quality of information shared online, and provide real-time access to insights and information extracted from the dataset. 
+
+Subjects: 	Social and Information Networks (cs.SI) ; Computers and Society (cs.CY); Machine Learning (cs.LG)
+Cite as: 	arXiv:2003.12309 [cs.SI]
+  	(or arXiv:2003.12309v4 [cs.SI] for this version)
+Submission history
+From: Karishma Sharma [ view email ]
+[v1] Thu, 26 Mar 2020 09:48:24 UTC (284 KB)
+[v2] Tue, 21 Apr 2020 16:42:46 UTC (1,467 KB)
+[v3] Fri, 8 May 2020 19:12:29 UTC (1,467 KB)
+[v4] Thu, 22 Oct 2020 03:03:29 UTC (2,428 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.SI
+< prev   |   next >
+new | recent | 2003
+Change to browse by:
+cs
+cs.CY
+cs.LG
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Karishma Sharma
+Sungyong Seo
+Chuizheng Meng
+Sirisha Rambhatla
+Yan Liu
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

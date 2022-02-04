@@ -1,0 +1,84 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2005.06012
+
+Help | Advanced Search
+Search
+Computer Science > Social and Information Networks
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 2 May 2020 ( v1 ), last revised 5 Feb 2021 (this version, v4)]
+Title: Mega-COV: A Billion-Scale Dataset of 100+ Languages for COVID-19
+Authors: Muhammad Abdul-Mageed , AbdelRahim Elmadany , El Moatez Billah Nagoudi , Dinesh Pabbi , Kunal Verma , Rannie Lin
+Download PDF
+
+    Abstract: We describe Mega-COV, a billion-scale dataset from Twitter for studying COVID-19. The dataset is diverse (covers 268 countries), longitudinal (goes as back as 2007), multilingual (comes in 100+ languages), and has a significant number of location-tagged tweets (~169M tweets). We release tweet IDs from the dataset. We also develop and release two powerful models, one for identifying whether or not a tweet is related to the pandemic (best F1=97%) and another for detecting misinformation about COVID-19 (best F1=92%). A human annotation study reveals the utility of our models on a subset of Mega-COV. Our data and models can be useful for studying a wide host of phenomena related to the pandemic. Mega-COV and our models are publicly available. 
+
+Subjects: 	Social and Information Networks (cs.SI) ; Computation and Language (cs.CL)
+Cite as: 	arXiv:2005.06012 [cs.SI]
+  	(or arXiv:2005.06012v4 [cs.SI] for this version)
+Submission history
+From: Abdelrahim Elmadany [ view email ]
+[v1] Sat, 2 May 2020 10:23:27 UTC (7,846 KB)
+[v2] Fri, 7 Aug 2020 23:57:50 UTC (9,734 KB)
+[v3] Mon, 25 Jan 2021 19:15:42 UTC (13,784 KB)
+[v4] Fri, 5 Feb 2021 22:19:06 UTC (9,567 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.SI
+< prev   |   next >
+new | recent | 2005
+Change to browse by:
+cs
+cs.CL
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Muhammad Abdul-Mageed
+AbdelRahim A. Elmadany
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

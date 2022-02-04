@@ -1,0 +1,81 @@
+
+Skip to main content
+arXiv
+Cornell University Logo
+open search
+open navigation menu
+Computer Science > Computation and Language
+arXiv:1910.01108 (cs)
+[Submitted on 2 Oct 2019 ( v1 ), last revised 1 Mar 2020 (this version, v4)]
+Title: DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+Authors: Victor Sanh , Lysandre Debut , Julien Chaumond , Thomas Wolf
+Download PDF
+
+    Abstract: As Transfer Learning from large-scale pre-trained models becomes more prevalent in Natural Language Processing (NLP), operating these large models in on-the-edge and/or under constrained computational training or inference budgets remains challenging. In this work, we propose a method to pre-train a smaller general-purpose language representation model, called DistilBERT, which can then be fine-tuned with good performances on a wide range of tasks like its larger counterparts. While most prior work investigated the use of distillation for building task-specific models, we leverage knowledge distillation during the pre-training phase and show that it is possible to reduce the size of a BERT model by 40%, while retaining 97% of its language understanding capabilities and being 60% faster. To leverage the inductive biases learned by larger models during pre-training, we introduce a triple loss combining language modeling, distillation and cosine-distance losses. Our smaller, faster and lighter model is cheaper to pre-train and we demonstrate its capabilities for on-device computations in a proof-of-concept experiment and a comparative on-device study. 
+
+Comments: 	February 2020 - Revision: fix bug in evaluation metrics, updated metrics, argumentation unchanged. 5 pages, 1 figure, 4 tables. Accepted at the 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS 2019
+Subjects: 	Computation and Language (cs.CL)
+Cite as: 	arXiv:1910.01108 [cs.CL]
+  	(or arXiv:1910.01108v4 [cs.CL] for this version)
+Submission history
+From: Victor Sanh [ view email ]
+[v1] Wed, 2 Oct 2019 17:56:28 UTC (275 KB)
+[v2] Wed, 16 Oct 2019 14:52:02 UTC (275 KB)
+[v3] Fri, 24 Jan 2020 16:58:52 UTC (276 KB)
+[v4] Sun, 1 Mar 2020 02:57:50 UTC (276 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.CL
+< prev   |   next >
+new | recent | 1910
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+4 blog links
+( what is this? )
+DBLP - CS Bibliography
+listing | bibtex
+Victor Sanh
+Julien Chaumond
+Thomas Wolf
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

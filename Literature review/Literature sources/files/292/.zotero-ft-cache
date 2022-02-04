@@ -1,0 +1,89 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:1811.07901
+
+Help | Advanced Search
+Search
+Computer Science > Artificial Intelligence
+(cs)
+[Submitted on 19 Nov 2018 ( v1 ), last revised 8 Jan 2019 (this version, v4)]
+Title: On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection
+Authors: Vivian Lai , Chenhao Tan
+Download PDF
+
+    Abstract: Humans are the final decision makers in critical tasks that involve ethical and legal concerns, ranging from recidivism prediction, to medical diagnosis, to fighting against fake news. Although machine learning models can sometimes achieve impressive performance in these tasks, these tasks are not amenable to full automation. To realize the potential of machine learning for improving human decisions, it is important to understand how assistance from machine learning models affects human performance and human agency.
+    In this paper, we use deception detection as a testbed and investigate how we can harness explanations and predictions of machine learning models to improve human performance while retaining human agency. We propose a spectrum between full human agency and full automation, and develop varying levels of machine assistance along the spectrum that gradually increase the influence of machine predictions. We find that without showing predicted labels, explanations alone slightly improve human performance in the end task. In comparison, human performance is greatly improved by showing predicted labels (>20% relative improvement) and can be further improved by explicitly suggesting strong machine performance. Interestingly, when predicted labels are shown, explanations of machine predictions induce a similar level of accuracy as an explicit statement of strong machine performance. Our results demonstrate a tradeoff between human performance and human agency and show that explanations of machine predictions can moderate this tradeoff. 
+
+Comments: 	17 pages, 19 figures, in Proceedings of ACM FAT* 2019, dataset & demo available at this https URL
+Subjects: 	Artificial Intelligence (cs.AI) ; Computation and Language (cs.CL); Computers and Society (cs.CY); Physics and Society (physics.soc-ph); Machine Learning (stat.ML)
+DOI : 	10.1145/3287560.3287590
+Cite as: 	arXiv:1811.07901 [cs.AI]
+  	(or arXiv:1811.07901v4 [cs.AI] for this version)
+Submission history
+From: Vivian Lai [ view email ]
+[v1] Mon, 19 Nov 2018 19:00:01 UTC (1,455 KB)
+[v2] Mon, 26 Nov 2018 20:47:12 UTC (2,885 KB)
+[v3] Wed, 28 Nov 2018 03:52:47 UTC (2,854 KB)
+[v4] Tue, 8 Jan 2019 21:15:07 UTC (2,948 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.AI
+< prev   |   next >
+new | recent | 1811
+Change to browse by:
+cs
+cs.CL
+cs.CY
+physics
+physics.soc-ph
+stat
+stat.ML
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Vivian Lai
+Chenhao Tan
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

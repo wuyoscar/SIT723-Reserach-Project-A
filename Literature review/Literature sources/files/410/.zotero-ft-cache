@@ -1,0 +1,79 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2103.00747
+
+Help | Advanced Search
+Search
+Computer Science > Computation and Language
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 1 Mar 2021]
+Title: Combat COVID-19 Infodemic Using Explainable Natural Language Processing Models
+Authors: Jackie Ayoub , X. Jessie Yang , Feng Zhou
+Download PDF
+
+    Abstract: Misinformation of COVID-19 is prevalent on social media as the pandemic unfolds, and the associated risks are extremely high. Thus, it is critical to detect and combat such misinformation. Recently, deep learning models using natural language processing techniques, such as BERT (Bidirectional Encoder Representations from Transformers), have achieved great successes in detecting misinformation. In this paper, we proposed an explainable natural language processing model based on DistilBERT and SHAP (Shapley Additive exPlanations) to combat misinformation about COVID-19 due to their efficiency and effectiveness. First, we collected a dataset of 984 claims about COVID-19 with fact checking. By augmenting the data using back-translation, we doubled the sample size of the dataset and the DistilBERT model was able to obtain good performance (accuracy: 0.972; areas under the curve: 0.993) in detecting misinformation about COVID-19. Our model was also tested on a larger dataset for AAAI2021 - COVID-19 Fake News Detection Shared Task and obtained good performance (accuracy: 0.938; areas under the curve: 0.985). The performance on both datasets was better than traditional machine learning models. Second, in order to boost public trust in model prediction, we employed SHAP to improve model explainability, which was further evaluated using a between-subjects experiment with three conditions, i.e., text (T), text+SHAP explanation (TSE), and text+SHAP explanation+source and evidence (TSESE). The participants were significantly more likely to trust and share information related to COVID-19 in the TSE and TSESE conditions than in the T condition. Our results provided good implications in detecting misinformation about COVID-19 and improving public trust. 
+
+Subjects: 	Computation and Language (cs.CL)
+Cite as: 	arXiv:2103.00747 [cs.CL]
+  	(or arXiv:2103.00747v1 [cs.CL] for this version)
+Submission history
+From: Feng Zhou [ view email ]
+[v1] Mon, 1 Mar 2021 04:28:39 UTC (1,968 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+Current browse context:
+cs.CL
+< prev   |   next >
+new | recent | 2103
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+X. Jessie Yang
+Feng Zhou
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

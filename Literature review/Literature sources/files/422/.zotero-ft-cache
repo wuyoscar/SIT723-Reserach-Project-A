@@ -1,0 +1,85 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2008.00791
+
+Help | Advanced Search
+Search
+Computer Science > Social and Information Networks
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 3 Aug 2020 ( v1 ), last revised 19 Sep 2020 (this version, v4)]
+Title: Characterizing COVID-19 Misinformation Communities Using a Novel Twitter Dataset
+Authors: Shahan Ali Memon , Kathleen M. Carley
+Download PDF
+
+    Abstract: From conspiracy theories to fake cures and fake treatments, COVID-19 has become a hot-bed for the spread of misinformation online. It is more important than ever to identify methods to debunk and correct false information online. In this paper, we present a methodology and analyses to characterize the two competing COVID-19 misinformation communities online: (i) misinformed users or users who are actively posting misinformation, and (ii) informed users or users who are actively spreading true information, or calling out misinformation. The goals of this study are two-fold: (i) collecting a diverse set of annotated COVID-19 Twitter dataset that can be used by the research community to conduct meaningful analysis; and (ii) characterizing the two target communities in terms of their network structure, linguistic patterns, and their membership in other communities. Our analyses show that COVID-19 misinformed communities are denser, and more organized than informed communities, with a possibility of a high volume of the misinformation being part of disinformation campaigns. Our analyses also suggest that a large majority of misinformed users may be anti-vaxxers. Finally, our sociolinguistic analyses suggest that COVID-19 informed users tend to use more narratives than misinformed users. 
+
+Comments: 	9 pages, In Proceedings of The 5th International Workshop on Mining Actionable Insights from Social Networks (MAISoN 2020), co-located with CIKM
+Subjects: 	Social and Information Networks (cs.SI) ; Computation and Language (cs.CL)
+Cite as: 	arXiv:2008.00791 [cs.SI]
+  	(or arXiv:2008.00791v4 [cs.SI] for this version)
+Submission history
+From: Shahan Ali Memon [ view email ]
+[v1] Mon, 3 Aug 2020 11:44:22 UTC (1,030 KB)
+[v2] Thu, 6 Aug 2020 22:34:33 UTC (1,030 KB)
+[v3] Mon, 31 Aug 2020 14:36:01 UTC (1,029 KB)
+[v4] Sat, 19 Sep 2020 07:11:39 UTC (1,037 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.SI
+< prev   |   next >
+new | recent | 2008
+Change to browse by:
+cs
+cs.CL
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Shahan Ali Memon
+Kathleen M. Carley
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

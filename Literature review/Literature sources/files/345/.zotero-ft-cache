@@ -1,0 +1,83 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2010.06906
+
+Help | Advanced Search
+Search
+Computer Science > Computation and Language
+(cs)
+COVID-19 e-print
+
+Important: e-prints posted on arXiv are not peer-reviewed by arXiv; they should not be relied upon without context to guide clinical practice or health-related behavior and should not be reported in news media as established information without consulting multiple experts in the field.
+[Submitted on 14 Oct 2020]
+Title: No Rumours Please! A Multi-Indic-Lingual Approach for COVID Fake-Tweet Detection
+Authors: Debanjana Kar , Mohit Bhardwaj , Suranjana Samanta , Amar Prakash Azad
+Download PDF
+
+    Abstract: The sudden widespread menace created by the present global pandemic COVID-19 has had an unprecedented effect on our lives. Man-kind is going through humongous fear and dependence on social media like never before. Fear inevitably leads to panic, speculations, and the spread of misinformation. Many governments have taken measures to curb the spread of such misinformation for public well being. Besides global measures, to have effective outreach, systems for demographically local languages have an important role to play in this effort. Towards this, we propose an approach to detect fake news about COVID-19 early on from social media, such as tweets, for multiple Indic-Languages besides English. In addition, we also create an annotated dataset of Hindi and Bengali tweet for fake news detection. We propose a BERT based model augmented with additional relevant features extracted from Twitter to identify fake tweets. To expand our approach to multiple Indic languages, we resort to mBERT based model which is fine-tuned over created dataset in Hindi and Bengali. We also propose a zero-shot learning approach to alleviate the data scarcity issue for such low resource languages. Through rigorous experiments, we show that our approach reaches around 89% F-Score in fake tweet detection which supercedes the state-of-the-art (SOTA) results. Moreover, we establish the first benchmark for two Indic-Languages, Hindi and Bengali. Using our annotated data, our model achieves about 79% F-Score in Hindi and 81% F-Score for Bengali Tweets. Our zero-shot model achieves about 81% F-Score in Hindi and 78% F-Score for Bengali Tweets without any annotated data, which clearly indicates the efficacy of our approach. 
+
+Comments: 	6 pages, 4 figures
+Subjects: 	Computation and Language (cs.CL) ; Machine Learning (cs.LG); Social and Information Networks (cs.SI)
+Cite as: 	arXiv:2010.06906 [cs.CL]
+  	(or arXiv:2010.06906v1 [cs.CL] for this version)
+Submission history
+From: Debanjana Kar [ view email ]
+[v1] Wed, 14 Oct 2020 09:37:51 UTC (18,046 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.CL
+< prev   |   next >
+new | recent | 2010
+Change to browse by:
+cs
+cs.LG
+cs.SI
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+DBLP - CS Bibliography
+listing | bibtex
+Suranjana Samanta
+Amar Prakash Azad
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Litmaps Toggle
+Litmaps ( What is Litmaps? )
+scite.ai Toggle
+scite Smart Citations ( What are Smart Citations? )
+Code & Data
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+
